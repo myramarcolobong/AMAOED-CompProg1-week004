@@ -1,2 +1,2 @@
-# AMAOED-week004-HelloWorld
+# AMAOED-CompProg1-week004
 "My very first C++ application"
